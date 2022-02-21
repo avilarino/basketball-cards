@@ -34,6 +34,7 @@ nav{
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
+  margin-top: 100px
 
 }
 
@@ -153,3 +154,16 @@ nav{
   display: block;
 }
 
+@media screen and (max-width: 375px){
+
+.container-cards-skills{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+}
