@@ -22,7 +22,7 @@ Welcome to my Github  :wave: :wave:
 
 #### Desktop
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/basketball-cards/master/images/screen-players-png)
+![Screenshot](https://raw.githubusercontent.com/avilarino/basketball-cards/master/images/screen-players.png)
 
 
 ### Link to Github Pages
